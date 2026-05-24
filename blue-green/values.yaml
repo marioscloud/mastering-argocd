@@ -6,7 +6,7 @@ replicaCount: 100
 
 image:
   repository: gcr.io/google-samples/gb-frontend
-  tag: v4
+  tag: v5  # Change this from v4 to v5         
   pullPolicy: IfNotPresent
 
 service:
